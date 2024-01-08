@@ -14,25 +14,25 @@ AboutPage
 ContactPage
 CartPage
 
-![Home Page](\Website_Image\Home.png)
+![Home Page](Website_Image/Home.png)
 The website has been designed keeping the user experience in mind and it's easy to navigate through
 
-![Shop Page](\Website_Image\Shop.png)
+![Shop Page](Website_Image/Shop.png)
 Here you can see all the products available on the platform, you can filter them by category or search
 
-![Blog Page](\Website_Image\Blog.png)
+![Blog Page](Website_Image/Blog.png)
 A Blog page where users can read about new products, trends or anything they want.
 
-![About Page](\Website_Image\About.png)
+![About Page](Website_Image/About.png)
 An About Us section that gives information about who we are and what we do.
 
-![Contact Page](\Website_Image\Contact.png)
+![Contact Page](Website_Image/Contact.png)
 A Contact Us form where users can get in touch with us.
 
-![Cart Page](\Website_Image\Cart.png)
+![Cart Page](Website_Image/Cart.png)
 A Shopping Cart where users can view their items before making a purchase.
 
-![On-Other Media Page](\Website_Image\Media.png)
+![On-Other Media Page](Website_Image/Media.png)
 As this project is made using HTML & CSS, it becomes fully responsive on various devices like iPhones, iPads, etc.
 You can see how this website looks on various devices such as Desktop, Tablet & Mobile
 
@@ -84,10 +84,10 @@ The Software required for this project are:
 1. You can install the Vs code IDE from here Depending upon the OS you use
    (https://code.visualstudio.com/download)
 
-2. You can install the Goggle Chrome from the following
+2. You can install Google Chrome from the following
    (https://www.google.com/chrome/?brand=YTUH&gclid=CjwKCAiA1-6sBhAoEiwArqlGPhvHNSduAAzHcSI6G6jEMcyWyLB_eGRoiXAGDrnP7x83Kru47Q78GxoC4ncQAvD_BwE&gclsrc=aw.ds)
 
-3. You can install the Microsoft Edge from the following (if required)
+3. You can install Microsoft Edge from the following (if required)
    (https://www.microsoft.com/en-in/edge/download?form=MA13FJ)
 
 ## Contributing
