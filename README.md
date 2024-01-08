@@ -1,11 +1,11 @@
 # Responsive_E-Commerce_Website
 
-Responsive E-commerce Website is a Simple E-commerce Website which will be responsive in other Media also
+A responsive E-commerce Website is a Simple E-commerce Website that will be responsive in other Media also.
 
 ## About Project
 
-This Project is a Simple E-commerce Websit which is created by using HTML, CSS and JavaScript. While making each webpage responsive other media also.
-This Website is a collection of different webpages which are:
+This Project is a Simple E-commerce Website that is created by using HTML, CSS, and JavaScript. While making each webpage responsive other media also.
+This Website is a collection of different web pages which are:
 
 HomePage
 ShopPage
@@ -14,27 +14,27 @@ AboutPage
 ContactPage
 CartPage
 
-![Home Page](.\Website_Image\Home.png)
+![Home Page](\Website_Image\Home.png)
 The website has been designed keeping the user experience in mind and it's easy to navigate through
 
-![Shop Page](.\Website_Image\Shop.png)
+![Shop Page](\Website_Image\Shop.png)
 Here you can see all the products available on the platform, you can filter them by category or search
 
-![Blog Page](.\Website_Image\Blog.png)
+![Blog Page](\Website_Image\Blog.png)
 A Blog page where users can read about new products, trends or anything they want.
 
-![About Page](.\Website_Image\About.png)
+![About Page](\Website_Image\About.png)
 An About Us section that gives information about who we are and what we do.
 
-![Contact Page](.\Website_Image\Contact.png)
+![Contact Page](\Website_Image\Contact.png)
 A Contact Us form where users can get in touch with us.
 
-![Cart Page](.\Website_Image\Cart.png)
+![Cart Page](\Website_Image\Cart.png)
 A Shopping Cart where users can view their items before making a purchase.
 
-![On-Other Media Page](.\Website_Image\Media.png)
-As this project is made using HTML & CSS, so it becomes fully responsive on various devices like iPhone, iPad etc.
-You can see how this website looks like on various devices such as Desktop, Tablet & Mobile
+![On-Other Media Page](\Website_Image\Media.png)
+As this project is made using HTML & CSS, it becomes fully responsive on various devices like iPhones, iPads, etc.
+You can see how this website looks on various devices such as Desktop, Tablet & Mobile
 
 This Site is a Simple Structure of the E-commerce Site
 
@@ -92,13 +92,13 @@ The Software required for this project are:
 
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
 2. Create your Feature Branch (git checkout -b AddingChanges)
-3. Commit your Changes (git commit -m 'Add some Changes')
+3. Commit your changes (git commit -m 'Add some Changes')
 4. Push to the Branch (git push origin AddingChanges)
 5. Open a Pull Request
 
@@ -111,5 +111,3 @@ Project Link: [https://github.com/Bobby278tr/Responsive_E-Commerce_Website/](htt
 ## Acknowledgments
 
 - Tech2 etc (https://github.com/tech2etc)
-- Inspiration
-- etc
