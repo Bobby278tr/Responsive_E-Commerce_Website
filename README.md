@@ -32,7 +32,7 @@ A Contact Us form where users can get in touch with us.
 ![Cart Page](Website_Image/Cart.png)
 A Shopping Cart where users can view their items before making a purchase.
 
-![On-Other Media Page](Website_Image/Media.png)
+<div class="container">![On-Other Media Page](Website_Image/Media.png)</div>
 As this project is made using HTML & CSS, it becomes fully responsive on various devices like iPhones, iPads, etc.
 You can see how this website looks on various devices such as Desktop, Tablet & Mobile
 
